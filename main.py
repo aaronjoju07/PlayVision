@@ -10,7 +10,7 @@ import numpy as np
 
 
 def main():
-    video_path = "/Users/aaronjoju/Downloads/DFL---Bundesliga-Data-Shootout-Analysis-main/input-videos/08fd33_4.mp4"
+    video_path = "/Users/aaronjoju/Documents/PlayVision/input-videos/08fd33_4.mp4"
     # Reading video
     video_frames = read_video(video_path)
 
